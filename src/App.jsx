@@ -10,7 +10,6 @@ function App() {
 
   return (
     <div className='App' >
-      <h1> State Lift </h1>
       <SeuNome setNome={setNome}/>
       <Saudacao nome={nome}/>
     </div>

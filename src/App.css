@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #000000;
+  border-radius: 7px;
+  font-size: 16px; 
+  width: 334px;
+}
